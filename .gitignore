@@ -5,15 +5,12 @@
 *.userprefs
 *.sln.docstates
 
-# Build Results
-[Dd]ebug/
-[Rr]elease/
-[Rr]eleases/
+# Build Results (Proje çıktıları)
+bin/
+obj/
 x64/
 x86/
 arm/
-bin/
-obj/
 *.dll
 *.exe
 *.pdb
@@ -32,16 +29,16 @@ packages/
 # Visual Studio Code
 .vscode/
 
-# Logs
+# Logs (Günlük dosyaları)
 logs/
 *.log
 
-# Temp files
+# Temp files (Geçici dosyalar)
 temp/
 tmp/
 *.tmp
 
-# Other files
+# Other files (Diğer gereksiz dosyalar)
 *.db
 *.cache
 *.pid
@@ -61,5 +58,5 @@ ScaffoldingReadMe.txt
 .idea/
 *.sln.iml
 
-# Environment Files
+# Environment Files (Çevresel ayar dosyaları)
 .env
