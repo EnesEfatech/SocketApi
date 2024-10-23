@@ -1,0 +1,65 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+arm/
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.app
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Temp files
+temp/
+tmp/
+*.tmp
+
+# Other files
+*.db
+*.cache
+*.pid
+*.pid.lock
+*.lock
+
+# Application Insights
+ApplicationInsights.config
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Web Apps
+*.PublishSettings
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Environment Files
+.env
