@@ -60,3 +60,23 @@ ScaffoldingReadMe.txt
 
 # Environment Files (Çevresel ayar dosyaları)
 .env
+
+*.vsidx
+.vsidx
+
+.suo
+*.suo
+
+.cache
+*.cache
+
+
+*obj
+*.obj
+
+/.vs
+*.vsidx
+
+# wwwroot klasörü ve içeriği
+wwwroot/
+*.wwwroot
